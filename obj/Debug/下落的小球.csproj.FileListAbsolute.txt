@@ -1,0 +1,9 @@
+C:\Users\77223\source\repos\C#\下落的小球\bin\Debug\下落的小球.exe.config
+C:\Users\77223\source\repos\C#\下落的小球\bin\Debug\下落的小球.exe
+C:\Users\77223\source\repos\C#\下落的小球\bin\Debug\下落的小球.pdb
+C:\Users\77223\source\repos\C#\下落的小球\obj\Debug\下落的小球.csprojAssemblyReference.cache
+C:\Users\77223\source\repos\C#\下落的小球\obj\Debug\下落的小球.Form1.resources
+C:\Users\77223\source\repos\C#\下落的小球\obj\Debug\下落的小球.Properties.Resources.resources
+C:\Users\77223\source\repos\C#\下落的小球\obj\Debug\下落的小球.csproj.GenerateResource.cache
+C:\Users\77223\source\repos\C#\下落的小球\obj\Debug\下落的小球.exe
+C:\Users\77223\source\repos\C#\下落的小球\obj\Debug\下落的小球.pdb
